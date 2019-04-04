@@ -3,6 +3,7 @@
 `pagination-input` is a simple pagination control with an paper-input for Polymer.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/cforgeard/pagination-input)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2Fpagination-input.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2Fpagination-input?ref=badge_shield)
 
 <!---
 ```
@@ -34,3 +35,5 @@ bower install pagination-input
 
 MIT Licence
 @ FORGEARD Clément 2017
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2Fpagination-input.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2Fpagination-input?ref=badge_large)
